@@ -20,6 +20,11 @@
   <li><b>Set de Datos MNIST:</b> El conjunto de datos utilizado es MNIST, que contiene imágenes de dígitos escritos a mano, cada una etiquetada con el número correspondiente. Este conjunto de datos es ampliamente reconocido y utilizado en el campo de la visión por computadora y las redes neuronales, proporcionando una base sólida para la clasificación de imágenes. Presenta 60k imágenes de entrenamiento y otras 10k para realizar pruebas/li>
   <li><b>Herramientas y Librerías Principales:</b> El proyecto se desarrolla principalmente utilizando TensorFlow y Keras en Python. Estas poderosas librerías proporcionan herramientas esenciales para construir, entrenar y evaluar modelos de redes neuronales de manera eficiente. Además, se utilizan otras bibliotecas como NumPy para manipulación de datos y Matplotlib para visualización.</li>
 </ul>
+
+<div align="center">
+  <a href="https://www.tensorflow.org/datasets/catalog/mnist?hl=es-419">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+</div>
 <!--  -->
 
 <!-- Contacto -->
